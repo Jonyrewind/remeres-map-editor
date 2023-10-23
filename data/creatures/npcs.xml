@@ -71,6 +71,7 @@
 	<npc name="Amra" lookType="1537" lookHead="114" lookBody="6" lookLegs="67" lookFeet="49" lookAddons="1" />
 	<npc name="An Ancient Priest" looktype="65" lookitem="0" lookaddon="0" lookhead="0" lookbody="0" looklegs="0" lookfeet="0" />
 	<npc name="An Apparition" looktype="48" lookitem="0" lookaddon="0" lookhead="0" lookbody="0" looklegs="0" lookfeet="0" />
+	<npc name="An Idol" looktype="0" lookitem="15894" lookaddon="0" lookhead="0" lookbody="0" looklegs="0" lookfeet="0" />
 	<npc name="An Imprisoned Goblin" looktype="61" lookitem="0" lookaddon="0" lookhead="0" lookbody="0" looklegs="0" lookfeet="0" />
 	<npc name="An Old Dragon Lord" looktype="39" lookitem="0" lookaddon="0" lookhead="0" lookbody="0" looklegs="0" lookfeet="0" />
 	<npc name="An Orc Guard" looktype="7" lookitem="0" lookaddon="0" lookhead="0" lookbody="0" looklegs="0" lookfeet="0" />
@@ -101,6 +102,7 @@
 	<npc name="Asralius" looktype="194" lookitem="0" lookaddon="0" lookhead="114" lookbody="85" looklegs="113" lookfeet="114" />
 	<npc name="Atrad" looktype="152" lookitem="0" lookaddon="0" lookhead="77" lookbody="113" looklegs="132" lookfeet="94" />
 	<npc name="Atur" looktype="1200" lookitem="0" lookaddon="0" lookhead="114" lookbody="78" looklegs="0" lookfeet="3" />
+	<npc name="Augustin" looktype="1316" lookitem="0" lookaddon="0" lookhead="57" lookbody="38" looklegs="21" lookfeet="21" />
 	<npc name="Aurita" looktype="0" lookitem="5811" lookaddon="0" lookhead="0" lookbody="0" looklegs="0" lookfeet="0" />
 	<npc name="Auron" looktype="508" lookitem="0" lookaddon="0" lookhead="0" lookbody="0" looklegs="0" lookfeet="0" />
 	<npc name="Avar Tar" looktype="73" lookitem="0" lookaddon="0" lookhead="0" lookbody="0" looklegs="0" lookfeet="0" />

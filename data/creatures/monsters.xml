@@ -20,6 +20,9 @@
     <monster name="Amazon" looktype="137" lookhead="113" lookbody="120" looklegs="95" lookfeet="115" lookaddons="0" />
     <monster name="An Astral Glyph" looktype="0" />
     <monster name="An Observer Eye" looktype="925" />
+    <monster name="Ancient Lion Archer" looktype="1316" lookhead="0" lookbody="78" looklegs="57" lookfeet="57" lookaddons="2" />
+    <monster name="Ancient Lion Knight" looktype="1071" lookhead="57" lookbody="78" looklegs="76" lookfeet="76" lookaddons="1" />
+    <monster name="Ancient Lion Warlock" looktype="1316" lookhead="0" lookbody="78" looklegs="96" lookfeet="76" lookaddons="0" />
     <monster name="Ancient Scarab" looktype="79" />
     <monster name="Ancient Spawn Of Morgathla" looktype="1067" />
     <monster name="Angry Adventurer" looktype="129" lookhead="92" lookbody="15" looklegs="92" lookfeet="82" lookaddons="0" />
@@ -222,6 +225,7 @@
     <monster name="Crypt Defiler" looktype="146" lookhead="115" lookbody="115" looklegs="61" lookfeet="96" lookaddons="3" />
     <monster name="Crypt Shambler" looktype="100" />
     <monster name="Crypt Warden" looktype="1190" lookhead="41" lookbody="38" looklegs="0" lookfeet="0" lookaddons="0" />
+    <monster name="Crypt Warrior" looktype="298" lookhead="0" lookbody="0" looklegs="0" lookfeet="0" lookaddons="0" />
     <monster name="Crystal Spider" looktype="263" />
     <monster name="Crystal Wolf" looktype="391" />
     <monster name="Crystalcrusher" looktype="511" />
@@ -693,6 +697,9 @@
     <monster name="Lich" looktype="99" lookhead="95" lookbody="116" looklegs="119" lookfeet="115" lookaddons="0" />
     <monster name="Liodile" looktype="1602" />
     <monster name="Lion" looktype="41" />
+    <monster name="Lion Archer" looktype = "1316" lookhead = "0" lookbody = "78" looklegs = "57" lookfeet = "57" lookaddons = "2"  />
+    <monster name="Lion Knight" looktype = "1317" lookhead = "0" lookbody = "78" looklegs = "57" lookfeet = "57" lookaddons = "1"  />
+    <monster name="Lion Warlock" looktype = "1316" lookhead = "0" lookbody = "78" looklegs = "96" lookfeet = "76" lookaddons = "0"  />
     <monster name="Liquor Spirit" looktype="986" />
     <monster name="Lisa" looktype="604" />
     <monster name="Little Corym Charlatan" looktype="532" />
@@ -805,6 +812,7 @@
     <monster name="Modified Gnarlhound" looktype="515" />
     <monster name="Mole" looktype="1048" />
     <monster name="Monk" looktype="57" />
+    <monster name="Monk of the Order" looktype="57" />
     <monster name="Monstor" looktype="244" />
     <monster name="Mooh'Tah Master" looktype="611" />
     <monster name="Mooh'Tah Warrior" looktype="611" />
@@ -1300,6 +1308,9 @@
     <monster name="Ungreez" looktype="35" />
     <monster name="Unpleasant Dream" looktype="349" />
     <monster name="Unstable Spark" looktype="290" />
+    <monster name="Usurper Archer" looktype = "1316" lookhead = "76" lookbody = "57" looklegs = "76" lookfeet = "95" lookaddons = "2"  />
+    <monster name="Usurper Knight" looktype = "1316" lookhead = "76" lookbody = "57" looklegs = "76" lookfeet = "95" lookaddons = "1" />
+    <monster name="Usurper Warlock" looktype = "1316" lookhead = "57" lookbody = "2" looklegs = "21" lookfeet = "95" lookaddons = "0" />
     <monster name="Urmahlullu The Immaculate" looktype="1197" lookhead="57" lookbody="75" looklegs="38" lookfeet="86" lookaddons="0" />
     <monster name="Urmahlullu The Tamed" looktype="1197" lookhead="57" lookbody="75" looklegs="38" lookfeet="86" lookaddons="0" />
     <monster name="Urmahlullu The Weakened" looktype="1197" lookhead="57" lookbody="75" looklegs="38" lookfeet="86" lookaddons="0" />

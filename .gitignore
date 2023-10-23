@@ -62,3 +62,5 @@ vcpkg_installed/
 *.ilk
 remeres.exe.manifest
 remeres
+data/clients/client11/Tibia.dat
+data/clients/client11/Tibia.spr
